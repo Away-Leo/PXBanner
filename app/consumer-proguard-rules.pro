@@ -1,0 +1,1 @@
+-keep class com.pingxundata.answerliu.pxbanner.PXViewPager { *; }
